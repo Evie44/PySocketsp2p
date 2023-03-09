@@ -1,0 +1,16 @@
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\bin\Debug\PythonHostJoinAPI.exe.config
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\bin\Debug\PythonHostJoinAPI.exe
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\bin\Debug\PythonHostJoinAPI.pdb
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\bin\Debug\PythonHostJoinAPI.xml
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.vbproj.AssemblyReference.cache
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.Form1.resources
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.Resources.resources
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.vbproj.GenerateResource.cache
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.vbproj.CoreCompileInputs.cache
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.exe
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.xml
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.pdb
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ART\source\repos\PythonHostJoinAPI\PythonHostJoinAPI\obj\Debug\PythonHostJoinAPI.vbproj.CopyComplete
