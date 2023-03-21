@@ -59,7 +59,7 @@ To Start The Server, Use The Following command:
 ```
 This will Bind the Server To The Given ip and port, And the server will start listening For Incoming Requests from both Hosts and Clients, and manage Data Accordingly
 
-# - Hosts/Clients can be handled via [PyHostJoinAPI](https://github.com/BrAtUkA/PySockets-p2p/blob/main/vsProject/PythonHostJoinAPI.zip) -
+# - Hosts/Clients can be handled via [PyHostJoinAPI](https://github.com/Evie44/PySocketsp2p/blob/main/vsProject/PythonHostJoinAPI.zip) -
 
 
 ### Manual Host/Join:
